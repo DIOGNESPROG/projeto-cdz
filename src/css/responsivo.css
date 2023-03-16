@@ -1,0 +1,18 @@
+@media(max-width:1280px){
+    body{
+        padding: 0, 40px;
+    }
+}
+@media (max-width: 768px){
+    .informacoes {
+        flex-direction: colon;
+        align-items: center;
+    }
+    .informacoes .{
+        width: 60%;
+        text-align: center;
+    }
+
+
+}
+    
